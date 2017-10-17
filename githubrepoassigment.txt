@@ -1,0 +1,25 @@
+Last login: Mon Oct 16 19:55:08 on ttys000
+Abels-MacBook:~ aurbina$ 
+Abels-MacBook:~ aurbina$ pwd
+/Users/aurbina
+Abels-MacBook:~ aurbina$ cd desktop
+Abels-MacBook:desktop aurbina$ cd gittest
+Abels-MacBook:gittest aurbina$ 
+Abels-MacBook:gittest aurbina$ cd ..
+Abels-MacBook:desktop aurbina$ mkdir GitHubRepoAssignment
+Abels-MacBook:desktop aurbina$ cd githubrepoassignment
+Abels-MacBook:githubrepoassignment aurbina$ git init
+Initialized empty Git repository in /Users/aurbina/Desktop/GitHubRepoAssignment/.git/
+Abels-MacBook:githubrepoassignment aurbina$ touch readme.md
+Abels-MacBook:githubrepoassignment aurbina$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	readme.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+Abels-MacBook:githubrepoassignment aurbina$ 
